@@ -1,7 +1,6 @@
 ﻿using Dapper;
 using Microsoft.IdentityModel.Tokens;
 using ProyectoTienda_API.Entities;
-using System.Collections.Specialized;
 using System.Data;
 using System.Data.SqlClient;
 using System.IdentityModel.Tokens.Jwt;
@@ -17,39 +16,88 @@ namespace ProyectoTienda_API.Models
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
             {
-                var datos= connection.Query<UsuarioObj>("ValidarCredenciales", 
-                    new {usuario.Usuario,usuario.Contrasenna }, commandType: CommandType.StoredProcedure).FirstOrDefault();
-                
-                if(datos != null)
+                var datos = connection.Query<UsuarioObj>("ValidarCredenciales",
+                    new { usuario.Correo, usuario.Contrasenna }, commandType: CommandType.StoredProcedure).FirstOrDefault();
+
+                if (datos != null)
                 {
-                    datos.Token = CrearToken(usuario.Usuario);
+                    datos.Token = CrearToken(usuario.Correo);
                     return datos;
                 }
                 return null;
-               
             }
         }
+
         public int RegistrarUsuario(UsuarioObj usuario, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
             {
                 return connection.Execute("CrearUsuario",
-                    new { usuario.Nombre,usuario.Cedula,usuario.Telefono,usuario.Direccion,usuario.Correo, usuario.TipoUsuario,usuario.IdRol }, commandType: CommandType.StoredProcedure);
-
+                    new
+                    {
+                        usuario.Cedula,
+                        usuario.Nombre,
+                        usuario.Apellidos,
+                        usuario.Correo,
+                        usuario.Contrasenna,
+                        usuario.Activo,
+                        usuario.IdRol,
+                        usuario.Token
+                    }, commandType: CommandType.StoredProcedure);
             }
         }
+        public int ActualizarUsuario(UsuarioObj usuario, IConfiguration stringConnection)
+        {
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+                return connection.Execute("EditarUsuario",
+                    new
+                    {
+                        usuario.Cedula,
+                        usuario.Nombre,
+                        usuario.Apellidos,
+                        usuario.Correo,
+                        usuario.Contrasenna,
+                        usuario.Activo,
+                        usuario.IdRol,
+                        usuario.Token
+                    }, commandType: CommandType.StoredProcedure);
+            }
+        }
+        public int EliminarUsuario(int? _UserId, IConfiguration stringConnection)
+        {
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+
+                return connection.Execute("EliminarUsuario",
+                    new
+                    {
+                        _UserId
+                    }, commandType: CommandType.StoredProcedure);
+            }
+        }
+        public List<UsuarioObj> Get_Usuario(IConfiguration stringConnection)
+        {
+
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+                var SqlQuery = connection.Query<UsuarioObj>("SELECT * from Usuario");
+                return SqlQuery.ToList();
+            }
+        }
+
         private string CrearToken(string Usuario)
         {
             List<Claim> claims = new List<Claim> {
                 new Claim(ClaimTypes.Name, Usuario)
             };
 
-            var Key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("b14ca5898a4e4133bbce2ea2315a1916"));
-            var cred = new SigningCredentials(Key, SecurityAlgorithms.HmacSha512Signature);
+            var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("b14ca5898a4e4133bbce2ea2315a1916"));
+            var cred = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
 
             var token = new JwtSecurityToken(
                 claims: claims,
-                expires: DateTime.UtcNow.AddMinutes(15),
+                expires: DateTime.UtcNow.AddMinutes(5),
                 signingCredentials: cred);
 
             return new JwtSecurityTokenHandler().WriteToken(token);

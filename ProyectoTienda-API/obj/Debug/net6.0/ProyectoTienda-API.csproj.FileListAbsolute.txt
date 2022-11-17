@@ -44,3 +44,193 @@ C:\Users\usuario\Desktop\Repositorios\ProyectoTienda-API\ProyectoTienda-API\bin\
 C:\Users\usuario\Desktop\Repositorios\ProyectoTienda-API\ProyectoTienda-API\bin\Debug\net6.0\Scrutor.dll
 C:\Users\usuario\Desktop\Repositorios\ProyectoTienda-API\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
 C:\Users\usuario\Desktop\Repositorios\ProyectoTienda-API\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.AssemblyReference.cache
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfoInputs.cache
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfo.cs
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CoreCompileInputs.cache
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\refint\ProyectoTienda-API.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.pdb
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.exe
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.deps.json
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.runtimeconfig.json
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.pdb
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\scopedcss\bundle\ProyectoTienda-API.styles.css
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CopyComplete
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.genruntimeconfig.cache
+C:\Users\Rolando González\Documents\proyects\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ref\ProyectoTienda-API.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\appsettings.json
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.exe
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.deps.json
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.runtimeconfig.json
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.pdb
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Dapper.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Scrutor.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.AssemblyReference.cache
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.GeneratedMSBuildEditorConfig.editorconfig
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfoInputs.cache
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfo.cs
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CoreCompileInputs.cache
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cs
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cache
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.build.json
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.development.json
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\scopedcss\bundle\ProyectoTienda-API.styles.css
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CopyComplete
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\refint\ProyectoTienda-API.dll
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.pdb
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.genruntimeconfig.cache
+D:\RpositorioU\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ref\ProyectoTienda-API.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.exe
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.deps.json
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.runtimeconfig.json
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.pdb
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Dapper.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Scrutor.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.AssemblyReference.cache
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfoInputs.cache
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfo.cs
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CoreCompileInputs.cache
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoTienda-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoTienda-API.props
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoTienda-API.props
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoTienda-API.props
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\scopedcss\bundle\ProyectoTienda-API.styles.css
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CopyComplete
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\refint\ProyectoTienda-API.dll
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.pdb
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.genruntimeconfig.cache
+C:\Users\Rolando González\Desktop\ProyectoUsuarios\ProyectoTienda-API\obj\Debug\net6.0\ref\ProyectoTienda-API.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.AssemblyReference.cache
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfoInputs.cache
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.AssemblyInfo.cs
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CoreCompileInputs.cache
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cs
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.MvcApplicationPartsAssemblyInfo.cache
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\appsettings.json
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.exe
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.deps.json
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.runtimeconfig.json
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\ProyectoTienda-API.pdb
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Dapper.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Scrutor.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.ProyectoTienda-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.build.ProyectoTienda-API.props
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProyectoTienda-API.props
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProyectoTienda-API.props
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.build.json
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\staticwebassets.development.json
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\scopedcss\bundle\ProyectoTienda-API.styles.css
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.csproj.CopyComplete
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\refint\ProyectoTienda-API.dll
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.pdb
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ProyectoTienda-API.genruntimeconfig.cache
+C:\JuanCarlosCalvoG\ProyectoUsuarios_ULTIMO\ProyectoTienda-API\obj\Debug\net6.0\ref\ProyectoTienda-API.dll
