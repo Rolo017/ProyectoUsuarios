@@ -11,7 +11,7 @@
 
         public string Correo { get; set; } = string.Empty;
 
-        public string Contrasenna { get; set; } = string.Empty;
+        public string Contraseña { get; set; } = string.Empty;
 
         public bool Activo { get; set; } = false;
 

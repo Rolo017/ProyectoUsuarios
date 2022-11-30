@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProyectoTienda_API.Entities;
 using ProyectoTienda_API.Models;
 
@@ -17,6 +18,16 @@ namespace ProyectoTienda_API.Controllers
         public ProductosController(IConfiguration configuration)
         {
             _configuration = configuration;
+        }
+
+
+        [AllowAnonymous]
+        [HttpPost]
+        [Route("ValidarProducto")]
+        public ActionResult<ProductoObj> ValidarProducto(ProductoObj producto)
+        {
+            return Ok(model.ValidarProducto(producto, _configuration));
+            
         }
 
         // GET: api/<ProductosController>

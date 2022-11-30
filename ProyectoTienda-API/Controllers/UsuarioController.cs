@@ -38,6 +38,7 @@ namespace ProyectoTienda_API.Controllers
         public ActionResult<UsuarioObj> ValidarUsuario(UsuarioObj usuario)
         {
             return Ok(model.ValidarUsuario(usuario, _configuration));
+            
         }
 
         [Authorize]

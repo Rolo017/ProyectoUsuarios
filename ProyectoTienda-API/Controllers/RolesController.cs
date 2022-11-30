@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using ProyectoTienda_API.Entities;
 using ProyectoTienda_API.Models;
 
@@ -12,6 +13,15 @@ namespace ProyectoTienda_API.Controllers
         public RolesController(IConfiguration configuration)
         {
             _configuration = configuration;
+
+        }
+        [AllowAnonymous]
+        [HttpPost]
+        [Route("ValidarRol")]
+        public ActionResult<RolObj> ValidarRol(RolObj rol)
+        {
+            return Ok(model.ValidarRol(rol, _configuration));
+            
         }
 
         // GET: RolesController

@@ -7,6 +7,18 @@ namespace ProyectoTienda_API.Models
 {
     public class VentasModel
     {
+        public VentasObj? ValidarVentas(VentasObj ventas, IConfiguration stringConnection)
+        {
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+                return connection.Query<VentasObj>("ValidarCredencialesProducto",
+                    new
+                    {
+                        ventas.Producto
+                    }, commandType: CommandType.StoredProcedure).FirstOrDefault();
+            }
+        }
+
         public int RegistrarVenta(VentasObj _venta, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
@@ -40,6 +52,7 @@ namespace ProyectoTienda_API.Models
                     }, commandType: CommandType.StoredProcedure);
             }
         }
+
 
         public int EliminarVenta(int ID_Venta, IConfiguration stringConnection)
         {

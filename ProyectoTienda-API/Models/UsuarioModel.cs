@@ -17,7 +17,7 @@ namespace ProyectoTienda_API.Models
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
             {
                 var datos = connection.Query<UsuarioObj>("ValidarCredenciales",
-                    new { usuario.Correo, usuario.Contrasenna }, commandType: CommandType.StoredProcedure).FirstOrDefault();
+                    new { usuario.Correo, usuario.Contraseña }, commandType: CommandType.StoredProcedure).FirstOrDefault();
 
                 if (datos != null)
                 {
@@ -39,7 +39,7 @@ namespace ProyectoTienda_API.Models
                         usuario.Nombre,
                         usuario.Apellidos,
                         usuario.Correo,
-                        usuario.Contrasenna,
+                        usuario.Contraseña,
                         usuario.Activo,
                         usuario.IdRol,
                         usuario.Token
@@ -57,7 +57,7 @@ namespace ProyectoTienda_API.Models
                         usuario.Nombre,
                         usuario.Apellidos,
                         usuario.Correo,
-                        usuario.Contrasenna,
+                        usuario.Contraseña,
                         usuario.Activo,
                         usuario.IdRol,
                         usuario.Token

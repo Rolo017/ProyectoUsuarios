@@ -7,6 +7,19 @@ namespace ProyectoTienda_API.Models
 {
     public class ProductoModel
     {
+        public ProductoObj? ValidarProducto(ProductoObj producto, IConfiguration stringConnection)
+        {
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+                return connection.Query<ProductoObj>("ValidarCredencialesProducto",
+                    new {
+                        producto.Nombre
+                        
+                    }, commandType: CommandType.StoredProcedure).FirstOrDefault();
+            }
+        }
+
+
         public int Registrar_Producto(ProductoObj _Producto, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))

@@ -7,7 +7,23 @@ namespace ProyectoTienda_API.Models
 {
     public class RolesModel
     {
-        public int Registrar_Rol(RolObj _Rol, IConfiguration stringConnection)
+        //VALIDAR 
+        public RolObj?  ValidarRol(RolObj rol, IConfiguration stringConnection)
+        {
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+                return connection.Query<RolObj>("ValidarCredencialesRol",
+                    new
+                    {
+                        rol.Roles
+
+                    }, commandType: CommandType.StoredProcedure).FirstOrDefault();
+            }
+
+        }
+
+        //REGISTRAR
+            public int Registrar_Rol(RolObj _Rol, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
             {
