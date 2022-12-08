@@ -7,6 +7,16 @@ namespace ProyectoTienda_API.Models
 {
     public class ProductoModel
     {
+        public List<ProductoObj> Get_Producto(IConfiguration stringConnection)
+        {
+
+            using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
+            {
+                var SqlQuery = connection.Query<ProductoObj>("SELECT * from Productos");
+                return SqlQuery.ToList();
+            }
+        }
+
         public ProductoObj? ValidarProducto(ProductoObj producto, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))

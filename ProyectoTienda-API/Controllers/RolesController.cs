@@ -26,7 +26,7 @@ namespace ProyectoTienda_API.Controllers
 
         // GET: RolesController
         [HttpGet]
-        [Route("Get")]
+        [Route("GetRol")]
         public List<RolObj> Get()
         {
             var roles = new List<RolObj>();

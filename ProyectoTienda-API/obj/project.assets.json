@@ -1598,19 +1598,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\50670\\.nuget\\packages\\": {}
+    "C:\\Users\\JUANK´S-PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacion\\ProyectoFinal\\ProyectoFINAL\\ProyectoTienda-API\\ProyectoTienda-API.csproj",
+      "projectUniqueName": "C:\\PF\\ProyectoUsuarios\\ProyectoTienda-API\\ProyectoTienda-API.csproj",
       "projectName": "ProyectoTienda-API",
-      "projectPath": "C:\\Programacion\\ProyectoFinal\\ProyectoFINAL\\ProyectoTienda-API\\ProyectoTienda-API.csproj",
-      "packagesPath": "C:\\Users\\50670\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacion\\ProyectoFinal\\ProyectoFINAL\\ProyectoTienda-API\\obj\\",
+      "projectPath": "C:\\PF\\ProyectoUsuarios\\ProyectoTienda-API\\ProyectoTienda-API.csproj",
+      "packagesPath": "C:\\Users\\JUANK´S-PC\\.nuget\\packages\\",
+      "outputPath": "C:\\PF\\ProyectoUsuarios\\ProyectoTienda-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\50670\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\JUANK´S-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1684,7 +1684,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

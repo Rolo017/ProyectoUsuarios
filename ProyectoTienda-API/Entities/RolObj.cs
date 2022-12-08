@@ -3,9 +3,9 @@
     public class RolObj
     {
 
-        public int IdRol { get; set; } = 0;
+        public int IdRol { get; set; } 
 
-        public String Roles { get; set; } = string.Empty;
+        public String Roles { get; set; } 
 
     }
 }

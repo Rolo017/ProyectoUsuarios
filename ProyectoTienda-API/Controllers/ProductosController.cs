@@ -20,6 +20,16 @@ namespace ProyectoTienda_API.Controllers
             _configuration = configuration;
         }
 
+        // GET: RolesController
+        [HttpGet]
+        [Route("GetProducto")]
+        public List<ProductoObj> Get()
+        {
+            var Productos = new List<ProductoObj>();
+            ProductoObj r = new ProductoObj();
+            return model.Get_Producto(_configuration);
+
+        }
 
         [AllowAnonymous]
         [HttpPost]

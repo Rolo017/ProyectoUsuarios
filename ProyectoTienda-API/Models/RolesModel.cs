@@ -8,7 +8,7 @@ namespace ProyectoTienda_API.Models
     public class RolesModel
     {
         //VALIDAR 
-        public RolObj?  ValidarRol(RolObj rol, IConfiguration stringConnection)
+        public RolObj? ValidarRol(RolObj rol, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
             {
@@ -23,7 +23,7 @@ namespace ProyectoTienda_API.Models
         }
 
         //REGISTRAR
-            public int Registrar_Rol(RolObj _Rol, IConfiguration stringConnection)
+        public int Registrar_Rol(RolObj _Rol, IConfiguration stringConnection)
         {
             using (var connection = new SqlConnection(stringConnection.GetSection("ConnectionStrings:Connection").Value))
             {
@@ -57,7 +57,7 @@ namespace ProyectoTienda_API.Models
                 return connection.Execute("Borrar_Rol",
                     new
                     {
-                        ROL.IdRol
+                        _RolId
                     }, commandType: CommandType.StoredProcedure);
             }
         }
